@@ -28,9 +28,7 @@ DEBUG = (os.environ.get('DEBUG_VALUE') == 'True')
 
 ALLOWED_HOSTS = [
     'localhost',
-    'https://bytewalk.herokuapp.com/',
-    'https://bytewalk.me',
-    'http://bytewalk.me'
+    'https://knpudur.azurewebsites.net'
 ]
 
 
